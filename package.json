@@ -13,9 +13,9 @@
   },
   "dependencies": {
     "firebase": "^6.3.5",
-    "lodash": "^4.17.10",
-    "oauth-1.0a": "1.0.1",
-    "redux-actions": "^2.6.4"
+	  "lodash": "^4.17.14",
+	  "oauth-1.0a": "^2.2.6",
+    "redux-actions": "^2.6.5"
   },
   "keywords": [
     "react-native-wordpress",
